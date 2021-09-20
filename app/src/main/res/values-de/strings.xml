@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="good_morning_text">Guten Morgen!</string>
+    <string name="good_afternoon_text">Guten Tag!</string>
+    <string name="good_evening_text">Guten Abend!</string>
+    <string name="morning_text">Morgen</string>
+    <string name="afternoon_text">Nachmittag</string>
+    <string name="evening_text">Abend</string>
+</resources>
